@@ -2,6 +2,7 @@
 layout: about
 title: About
 menu: true
+order: 4
 --- 
 I'm a self-motivated **Software Engineer** with **1+** year experience developing modern android apps for leading companies. Currently, I'm working at **Samsung** R&D Institute Noida. I did my **Bachelor of Engineering** degree (Majors in Information Technology) from Birla Institute of Technology, Mesra, Ranchi, India.
 
@@ -33,8 +34,8 @@ I love all things tech, coffee and music. I'm skilled in android and java. I'm p
 * Explore web development
 * Learn about functional programming
 * Design and animate stuff for fun
-* Practise more drumming and maybe buy my own drumkit. Learn about music. 
-* Assemble my own customized desktop PC for development and stuff.
+* Practise more drumming and maybe buy my own drumkit. Learn about music
+* Assemble my own customized desktop PC for development and stuff
 * Start a fun project - maybe making retro synthwave music
 
 ## About this site
