@@ -3,6 +3,16 @@
   {% assign pages = site.pages | where: "menu", true %}
   {% assign documents = site.documents | where: "menu", true %}
   {% assign nodes = pages | concat: documents | sort: "order" %}
+  <li>
+	  <a href="{{ '/' | relative_url }}" class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"  >Blog</a>
+  </li>
+  <li>
+	  <a href="{{ '/' | relative_url }}" class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"  >Projects</a>
+  </li>
+  <li>
+      <a href="{{ '/gauravChaddhaResume.pdf' | relative_url  }}" target="_blank" class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}">Resume</a>
+  </li>
+
   {% for node in nodes %}
     {% unless node.redirect_to %}
       <li>
@@ -16,9 +26,6 @@
         </a>
       </li>
     {% else %}
-      <li>
-        <a href="{{ node.redirect_to }}" target="_blank" class="sidebar-nav-item external" >{{ node.title }}</a>
-      </li>
     {% endunless %}
   {% endfor %}
 </ul>
