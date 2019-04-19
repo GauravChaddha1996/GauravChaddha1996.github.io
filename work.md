@@ -6,8 +6,14 @@ order: 2
 --- 
 
 ## Experience
+* Software Engineer at **Zomato** <br>
+	I work with the android team. Here I mostly:
+	- Ship new features with speed and finesse
+	- Improve user experience and stability of the consumer app
+	- Inhouse debugging tools development
+
 * Software Engineer at **Samsung** R&D Institute. <br>
-	I work with the 'Framework' group. Currently my responsibilites include:  
+	I work with the 'Framework' group. My responsibilites included:  
 	- Spearheading overhaul of apps and task edge for Galaxy S10 
 	- Restructuring and maintaining quick tools and yahoo apps
 

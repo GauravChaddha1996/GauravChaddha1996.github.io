@@ -8,9 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Software Engineer - Android at Samsung R&D Institute Noida <br>
-    Skilled in Android and Java. Passionate for back-end development and machine learning.
-    Looking for a full-time android or java back-end position.
+    Software Engineer (Android) at Zomato <br>
+    Skilled in Android, Java and Kotlin. Passionate about back-end development and machine learning.
 
   # This photo will be used in the about section
   picture:

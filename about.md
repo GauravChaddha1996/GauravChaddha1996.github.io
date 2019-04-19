@@ -4,18 +4,18 @@ title: About
 menu: true
 order: 4
 --- 
-I'm a self-motivated **Software Engineer** with **1+** year experience developing modern android apps for leading companies. Currently, I'm working at **Samsung** R&D Institute Noida. I did my **Bachelor of Engineering** degree (Majors in Information Technology) from Birla Institute of Technology, Mesra, Ranchi, India.
+I'm a self-motivated **Software Engineer** with **1+** year experience developing modern android apps for leading companies. Currently, I'm working at **Zomato**. I did my **Bachelor of Engineering** degree (Majors in Information Technology) from Birla Institute of Technology, Mesra, Ranchi, India.
 
-I love all things tech, coffee and music. I'm skilled in android and java. I'm passionate for back-end development and machine learning.  
+I love all things tech, coffee and music. I'm skilled in android, kotlin and java. I'm passionate about back-end development and machine learning.  
+
 ## Things I currently do:
-* Spearheading overhaul of "task egde" and "apps edge" for Samsung Galaxy S10
+* Ship new features and improve user experience for Zomato consumer app
 * Developing "Sangeet" music player app to learn material design and new android stuff
 * Maintain a blog of things I learn about code and life
 * Researching ideas and learning for my next side-project
-* Focusing on my fitness by working out
-* Enjoy video games with my friends, watch animes and tv shows.
 
 ## Work, Project and more:
+* Restructured and maintained quick tools and yahoo apps as a software engineer at Samsung
 * I've worked as an intern at Samsung where I boosted security of apps by providing a security solution for android.
 * Contributed to Samsung Go platform where my ideas led to an improvement of battery life by 40%.
 * Worked at Intugine Technologies where I conceptualized and engineered complete architecture and api of [Nimble](http://www.intugine.com/intugine/index.php), a motion sensing ring to control devices around you.

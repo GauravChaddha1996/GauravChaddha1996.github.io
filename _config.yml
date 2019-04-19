@@ -28,12 +28,11 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
- Software Engineer - Android<br>
- Samsung R&D Institute, Noida<br>
+ Software Engineer - Zomato<br>
  I love all things mobile, web, tech, coffee and music.
  
 # A list of keywords for your blog
-keywords:              []
+keywords:              [mobile,Android,kotlin]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,7 +48,7 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018 Gaurav Chaddha. All rights reserved.
+  © 2019 Gaurav Chaddha. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
